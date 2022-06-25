@@ -1,4 +1,4 @@
-# climateglue
+# ClimaBench - A Benchmark dataset for Climate Change Text Understanding in English
 
 ### Download datasets with following commands:
 ```
